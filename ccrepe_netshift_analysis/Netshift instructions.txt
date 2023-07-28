@@ -1,0 +1,13 @@
+Netshift analysis
+
+Online tool:
+https://web.rniapps.net/netshift/
+
+Steps:
+1. Upload Case and Control association networks (tab delimited edge list)
+2. Run analysis
+
+References
+1. Kuntal BK, Chandrakar P, Sadhu S, Mande SS. 'NetShift': a methodology for understanding 'driver microbes' from healthy and disease microbiome datasets. ISME J. 2019;13(2):442-454.
+2. Faust K, Sathirapongsasuti JF, Izard J, Segata N, Gevers D, Raes J, Huttenhower C. Microbial co-occurrence relationships in the human microbiome. PLoS Comput Biol. 2012;8(7):e1002606.
+3. Wang Y, Zhang Y, Qian Y, Xie YH, Jiang SS, Kang ZR, Chen YX, Chen ZF, Fang JY. Alterations in the oral and gut microbiome of colorectal cancer patients and association with host clinical factors. Int J Cancer. 2021;149:925–935.

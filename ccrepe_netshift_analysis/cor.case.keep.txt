@@ -1,0 +1,496 @@
+Streptococcus parasanguinis	Streptococcus salivarius
+Lacticaseibacillus rhamnosus	Streptococcus salivarius
+Streptococcus infantis	Streptococcus salivarius
+Streptococcus mitis	Streptococcus salivarius
+Veillonella atypica	Streptococcus salivarius
+Veillonella dispar	Streptococcus salivarius
+Veillonella parvula	Streptococcus salivarius
+Veillonella infantium	Streptococcus salivarius
+Streptococcus sp. F0442	Streptococcus salivarius
+Streptococcus vestibularis	Streptococcus salivarius
+Dorea formicigenerans	Anaerostipes hadrus
+Dorea longicatena	Collinsella aerofaciens
+Bifidobacterium adolescentis	Collinsella aerofaciens
+Collinsella intestinalis	Collinsella aerofaciens
+Enorma massiliensis	Collinsella aerofaciens
+Tractidigestivibacter scatoligenes	Collinsella aerofaciens
+Bacteroides uniformis	Phocaeicola vulgatus
+Alistipes putredinis	Phocaeicola vulgatus
+Parabacteroides merdae	Phocaeicola vulgatus
+Parabacteroides distasonis	Phocaeicola vulgatus
+Odoribacter splanchnicus	Phocaeicola vulgatus
+Butyricimonas virosa	Phocaeicola vulgatus
+Collinsella aerofaciens	Dorea longicatena
+Anaerobutyricum hallii	Dorea longicatena
+Dorea formicigenerans	Dorea longicatena
+Blautia obeum	Dorea longicatena
+Dorea formicigenerans	[Ruminococcus] torques
+Dorea longicatena	Anaerobutyricum hallii
+Dorea formicigenerans	Anaerobutyricum hallii
+Phocaeicola vulgatus	Bacteroides uniformis
+Alistipes finegoldii	Bacteroides uniformis
+Alistipes putredinis	Bacteroides uniformis
+[Eubacterium] siraeum	Bacteroides uniformis
+Parabacteroides distasonis	Bacteroides uniformis
+Odoribacter splanchnicus	Bacteroides uniformis
+Butyricimonas virosa	Bacteroides uniformis
+Intestinimonas butyriciproducens	Bacteroides uniformis
+Lawsonibacter asaccharolyticus	Bacteroides uniformis
+Erysipelatoclostridium ramosum	Blautia wexlerae
+Blautia sp. CAG:257	Blautia wexlerae
+Sellimonas intestinalis	Blautia wexlerae
+Anaerostipes hadrus	Dorea formicigenerans
+Dorea longicatena	Dorea formicigenerans
+[Ruminococcus] torques	Dorea formicigenerans
+Anaerobutyricum hallii	Dorea formicigenerans
+[Eubacterium] sulci	Dorea formicigenerans
+Streptococcus salivarius	Streptococcus parasanguinis
+Streptococcus thermophilus	Streptococcus parasanguinis
+Lacticaseibacillus rhamnosus	Streptococcus parasanguinis
+Streptococcus infantis	Streptococcus parasanguinis
+Streptococcus mitis	Streptococcus parasanguinis
+Rothia mucilaginosa	Streptococcus parasanguinis
+Veillonella atypica	Streptococcus parasanguinis
+Veillonella dispar	Streptococcus parasanguinis
+Veillonella parvula	Streptococcus parasanguinis
+Veillonella infantium	Streptococcus parasanguinis
+Actinomyces sp. oral taxon 181	Streptococcus parasanguinis
+Streptococcus sp. F0442	Streptococcus parasanguinis
+Streptococcus vestibularis	Streptococcus parasanguinis
+Butyrivibrio crossotus	Coprococcus eutactus
+Roseburia sp. CAG:471	Coprococcus catus
+Firmicutes bacterium CAG:110	Coprococcus catus
+Roseburia faecis	Roseburia intestinalis
+Dorea longicatena	Blautia obeum
+Odoribacter splanchnicus	Bacteroides ovatus
+Bilophila wadsworthia	Bacteroides ovatus
+Streptococcus parasanguinis	Streptococcus thermophilus
+Lacticaseibacillus rhamnosus	Streptococcus thermophilus
+Streptococcus mitis	Streptococcus thermophilus
+Streptococcus oralis	Streptococcus thermophilus
+Collinsella aerofaciens	Bifidobacterium adolescentis
+Aeriscardovia aeriphila	Bifidobacterium adolescentis
+Lacticaseibacillus rhamnosus	Eubacterium sp. CAG:274
+Streptococcus vestibularis	Lactococcus lactis
+Bilophila wadsworthia	Flavonifractor plautii
+Lawsonibacter asaccharolyticus	Flavonifractor plautii
+Anaerotruncus colihominis	Flavonifractor plautii
+Streptococcus salivarius	Lacticaseibacillus rhamnosus
+Streptococcus parasanguinis	Lacticaseibacillus rhamnosus
+Streptococcus thermophilus	Lacticaseibacillus rhamnosus
+Eubacterium sp. CAG:274	Lacticaseibacillus rhamnosus
+Streptococcus infantis	Gemella sanguinis
+Streptococcus mitis	Gemella sanguinis
+Haemophilus parainfluenzae	Gemella sanguinis
+Gemella haemolysans	Gemella sanguinis
+Veillonella infantium	Gemella sanguinis
+Streptococcus oralis	Gemella sanguinis
+Eggerthella lenta	Gemella sanguinis
+Streptococcus salivarius	Streptococcus infantis
+Streptococcus parasanguinis	Streptococcus infantis
+Gemella sanguinis	Streptococcus infantis
+Streptococcus mitis	Streptococcus infantis
+Rothia mucilaginosa	Streptococcus infantis
+Haemophilus parainfluenzae	Streptococcus infantis
+Schaalia odontolytica	Streptococcus infantis
+Veillonella dispar	Streptococcus infantis
+Veillonella parvula	Streptococcus infantis
+Actinomyces sp. S6-Spd3	Streptococcus infantis
+Veillonella infantium	Streptococcus infantis
+Streptococcus oralis	Streptococcus infantis
+Streptococcus sp. F0442	Streptococcus infantis
+Streptococcus salivarius	Streptococcus mitis
+Streptococcus parasanguinis	Streptococcus mitis
+Streptococcus thermophilus	Streptococcus mitis
+Gemella sanguinis	Streptococcus mitis
+Streptococcus infantis	Streptococcus mitis
+Rothia mucilaginosa	Streptococcus mitis
+Veillonella dispar	Streptococcus mitis
+Veillonella parvula	Streptococcus mitis
+Gemella haemolysans	Streptococcus mitis
+Veillonella infantium	Streptococcus mitis
+Streptococcus oralis	Streptococcus mitis
+Actinomyces sp. oral taxon 181	Streptococcus mitis
+Sellimonas intestinalis	Streptococcus mitis
+Streptococcus parasanguinis	Rothia mucilaginosa
+Streptococcus infantis	Rothia mucilaginosa
+Streptococcus mitis	Rothia mucilaginosa
+Haemophilus parainfluenzae	Rothia mucilaginosa
+Actinomyces sp. S6-Spd3	Rothia mucilaginosa
+Veillonella infantium	Rothia mucilaginosa
+Streptococcus sp. F0442	Rothia mucilaginosa
+Streptococcus vestibularis	Rothia mucilaginosa
+Lachnospira eligens	Oscillibacter sp. 57_20
+Firmicutes bacterium CAG:110	Oscillibacter sp. 57_20
+Firmicutes bacterium CAG:95	Oscillibacter sp. 57_20
+Roseburia sp. CAG:309	Oscillibacter sp. 57_20
+Clostridium sp. CAG:167	Oscillibacter sp. 57_20
+Butyricimonas synergistica	Oscillibacter sp. 57_20
+Fretibacterium fastidiosum	Oscillibacter sp. 57_20
+Odoribacter splanchnicus	Roseburia hominis
+Gemella sanguinis	Haemophilus parainfluenzae
+Streptococcus infantis	Haemophilus parainfluenzae
+Rothia mucilaginosa	Haemophilus parainfluenzae
+Veillonella parvula	Haemophilus parainfluenzae
+Veillonella infantium	Haemophilus parainfluenzae
+Streptococcus sp. F0442	Haemophilus parainfluenzae
+Coprococcus catus	Roseburia sp. CAG:471
+Streptococcus infantis	Schaalia odontolytica
+Actinomyces sp. S6-Spd3	Schaalia odontolytica
+Actinomyces sp. HMSC035G02	Schaalia odontolytica
+Bacteroides uniformis	Alistipes finegoldii
+[Eubacterium] siraeum	Alistipes finegoldii
+Barnesiella intestinihominis	Alistipes finegoldii
+Phocaeicola vulgatus	Alistipes putredinis
+Bacteroides uniformis	Alistipes putredinis
+Firmicutes bacterium CAG:83	Alistipes putredinis
+Parabacteroides distasonis	Alistipes putredinis
+Bilophila wadsworthia	Alistipes putredinis
+Streptococcus salivarius	Veillonella atypica
+Streptococcus parasanguinis	Veillonella atypica
+Veillonella dispar	Veillonella atypica
+Veillonella parvula	Veillonella atypica
+Veillonella infantium	Veillonella atypica
+[Ruminococcus] gnavus	Veillonella atypica
+Streptococcus sp. F0442	Veillonella atypica
+Alistipes putredinis	Firmicutes bacterium CAG:83
+Streptococcus salivarius	Veillonella dispar
+Streptococcus parasanguinis	Veillonella dispar
+Streptococcus infantis	Veillonella dispar
+Streptococcus mitis	Veillonella dispar
+Veillonella atypica	Veillonella dispar
+Veillonella parvula	Veillonella dispar
+Veillonella infantium	Veillonella dispar
+Streptococcus sp. F0442	Veillonella dispar
+Streptococcus salivarius	Veillonella parvula
+Streptococcus parasanguinis	Veillonella parvula
+Streptococcus infantis	Veillonella parvula
+Streptococcus mitis	Veillonella parvula
+Haemophilus parainfluenzae	Veillonella parvula
+Veillonella atypica	Veillonella parvula
+Veillonella dispar	Veillonella parvula
+Veillonella infantium	Veillonella parvula
+[Ruminococcus] gnavus	Veillonella parvula
+Streptococcus vestibularis	Veillonella parvula
+Oscillibacter sp. 57_20	Lachnospira eligens
+Streptococcus infantis	Actinomyces sp. S6-Spd3
+Rothia mucilaginosa	Actinomyces sp. S6-Spd3
+Schaalia odontolytica	Actinomyces sp. S6-Spd3
+Actinomyces sp. HMSC035G02	Actinomyces sp. S6-Spd3
+Streptococcus sp. F0442	Actinomyces sp. S6-Spd3
+Gemella sanguinis	Gemella haemolysans
+Streptococcus mitis	Gemella haemolysans
+Enterocloster asparagiformis	Allisonella histaminiformans
+Streptococcus salivarius	Veillonella infantium
+Streptococcus parasanguinis	Veillonella infantium
+Gemella sanguinis	Veillonella infantium
+Streptococcus infantis	Veillonella infantium
+Streptococcus mitis	Veillonella infantium
+Rothia mucilaginosa	Veillonella infantium
+Haemophilus parainfluenzae	Veillonella infantium
+Veillonella atypica	Veillonella infantium
+Veillonella dispar	Veillonella infantium
+Veillonella parvula	Veillonella infantium
+Streptococcus sp. F0442	Veillonella infantium
+Actinomyces sp. HPA0247	Streptococcus mutans
+Actinomyces oris	Streptococcus mutans
+Streptococcus thermophilus	Streptococcus oralis
+Gemella sanguinis	Streptococcus oralis
+Streptococcus infantis	Streptococcus oralis
+Streptococcus mitis	Streptococcus oralis
+Solobacterium moorei	Streptococcus oralis
+Collinsella aerofaciens	Collinsella intestinalis
+Enorma massiliensis	Collinsella intestinalis
+Tractidigestivibacter scatoligenes	Collinsella intestinalis
+Slackia isoflavoniconvertens	Collinsella intestinalis
+Collinsella aerofaciens	Enorma massiliensis
+Collinsella intestinalis	Enorma massiliensis
+Tractidigestivibacter scatoligenes	Enorma massiliensis
+Veillonella atypica	[Ruminococcus] gnavus
+Veillonella parvula	[Ruminococcus] gnavus
+Eggerthella lenta	[Ruminococcus] gnavus
+Erysipelatoclostridium ramosum	[Ruminococcus] gnavus
+Parvimonas micra	Gemella morbillorum
+Streptococcus mutans	Actinomyces sp. HPA0247
+Actinomyces sp. oral taxon 181	Actinomyces sp. HPA0247
+Bifidobacterium dentium	Actinomyces sp. HPA0247
+Streptococcus parasanguinis	Actinomyces sp. oral taxon 181
+Streptococcus mitis	Actinomyces sp. oral taxon 181
+Actinomyces sp. HPA0247	Actinomyces sp. oral taxon 181
+Actinomyces graevenitzii	Actinomyces sp. oral taxon 181
+Schaalia odontolytica	Actinomyces sp. HMSC035G02
+Actinomyces sp. S6-Spd3	Actinomyces sp. HMSC035G02
+Streptococcus salivarius	Streptococcus sp. F0442
+Streptococcus parasanguinis	Streptococcus sp. F0442
+Streptococcus infantis	Streptococcus sp. F0442
+Rothia mucilaginosa	Streptococcus sp. F0442
+Haemophilus parainfluenzae	Streptococcus sp. F0442
+Veillonella atypica	Streptococcus sp. F0442
+Veillonella dispar	Streptococcus sp. F0442
+Actinomyces sp. S6-Spd3	Streptococcus sp. F0442
+Veillonella infantium	Streptococcus sp. F0442
+Roseburia intestinalis	Roseburia faecis
+Barnesiella intestinihominis	Roseburia faecis
+Adlercreutzia caecimuris	Adlercreutzia equolifaciens
+Monoglobus pectinilyticus	Adlercreutzia equolifaciens
+Collinsella aerofaciens	Tractidigestivibacter scatoligenes
+Collinsella intestinalis	Tractidigestivibacter scatoligenes
+Enorma massiliensis	Tractidigestivibacter scatoligenes
+Slackia isoflavoniconvertens	Tractidigestivibacter scatoligenes
+Eggerthella lenta	Gordonibacter pamelaeae
+Adlercreutzia caecimuris	Gordonibacter pamelaeae
+Phocaeicola vulgatus	Parabacteroides merdae
+Ruminococcus bicirculans	Parabacteroides merdae
+Odoribacter splanchnicus	Parabacteroides merdae
+Butyricimonas virosa	Parabacteroides merdae
+Bacteroides uniformis	[Eubacterium] siraeum
+Alistipes finegoldii	[Eubacterium] siraeum
+Barnesiella intestinihominis	[Eubacterium] siraeum
+Anaeromassilibacillus sp. An250	[Eubacterium] siraeum
+Alistipes finegoldii	Barnesiella intestinihominis
+Roseburia faecis	Barnesiella intestinihominis
+[Eubacterium] siraeum	Barnesiella intestinihominis
+Anaeromassilibacillus sp. An250	Barnesiella intestinihominis
+Alistipes shahii	Barnesiella intestinihominis
+Butyricimonas virosa	Barnesiella intestinihominis
+Eubacterium sp. CAG:38	Barnesiella intestinihominis
+Lawsonibacter asaccharolyticus	Barnesiella intestinihominis
+Coprobacter fastidiosus	Barnesiella intestinihominis
+Parabacteroides merdae	Ruminococcus bicirculans
+Coprococcus catus	Firmicutes bacterium CAG:110
+Oscillibacter sp. 57_20	Firmicutes bacterium CAG:110
+Oscillibacter sp. CAG:241	Firmicutes bacterium CAG:110
+Firmicutes bacterium CAG:95	Firmicutes bacterium CAG:110
+Fretibacterium fastidiosum	Firmicutes bacterium CAG:110
+Phocaeicola vulgatus	Parabacteroides distasonis
+Bacteroides uniformis	Parabacteroides distasonis
+Alistipes putredinis	Parabacteroides distasonis
+Odoribacter splanchnicus	Parabacteroides distasonis
+Butyricimonas virosa	Parabacteroides distasonis
+[Clostridium] leptum	Ruthenibacterium lactatiformans
+[Clostridium] spiroforme	Ruthenibacterium lactatiformans
+Eisenbergiella tayi	Ruthenibacterium lactatiformans
+Anaerotruncus colihominis	Ruthenibacterium lactatiformans
+[Eubacterium] siraeum	Anaeromassilibacillus sp. An250
+Barnesiella intestinihominis	Anaeromassilibacillus sp. An250
+Oscillibacter sp. CAG:241	Anaeromassilibacillus sp. An250
+Lawsonibacter asaccharolyticus	Anaeromassilibacillus sp. An250
+Harryflintia acetispora	Anaeromassilibacillus sp. An250
+Phocaeicola vulgatus	Odoribacter splanchnicus
+Bacteroides uniformis	Odoribacter splanchnicus
+Bacteroides ovatus	Odoribacter splanchnicus
+Roseburia hominis	Odoribacter splanchnicus
+Parabacteroides merdae	Odoribacter splanchnicus
+Parabacteroides distasonis	Odoribacter splanchnicus
+Alistipes shahii	Odoribacter splanchnicus
+Butyricimonas virosa	Odoribacter splanchnicus
+Bilophila wadsworthia	Odoribacter splanchnicus
+Intestinimonas butyriciproducens	Odoribacter splanchnicus
+Parasutterella excrementihominis	Odoribacter splanchnicus
+Lawsonibacter asaccharolyticus	Odoribacter splanchnicus
+Butyricimonas synergistica	Odoribacter splanchnicus
+Firmicutes bacterium CAG:110	Oscillibacter sp. CAG:241
+Anaeromassilibacillus sp. An250	Oscillibacter sp. CAG:241
+Oscillibacter sp. 57_20	Firmicutes bacterium CAG:95
+Firmicutes bacterium CAG:110	Firmicutes bacterium CAG:95
+Barnesiella intestinihominis	Alistipes shahii
+Odoribacter splanchnicus	Alistipes shahii
+Butyricimonas virosa	Alistipes shahii
+Slackia isoflavoniconvertens	Alistipes shahii
+[Eubacterium] sulci	Actinomyces sp. ICM47
+Gemella sanguinis	Eggerthella lenta
+[Ruminococcus] gnavus	Eggerthella lenta
+Gordonibacter pamelaeae	Eggerthella lenta
+Erysipelatoclostridium ramosum	Eggerthella lenta
+[Clostridium] innocuum	Eggerthella lenta
+Eisenbergiella massiliensis	Eggerthella lenta
+[Clostridium] scindens	Eggerthella lenta
+Streptococcus vestibularis	Escherichia coli
+Phocaeicola vulgatus	Butyricimonas virosa
+Bacteroides uniformis	Butyricimonas virosa
+Parabacteroides merdae	Butyricimonas virosa
+Barnesiella intestinihominis	Butyricimonas virosa
+Parabacteroides distasonis	Butyricimonas virosa
+Odoribacter splanchnicus	Butyricimonas virosa
+Alistipes shahii	Butyricimonas virosa
+Intestinimonas butyriciproducens	Butyricimonas virosa
+Bacteroides nordii	Butyricimonas virosa
+Adlercreutzia equolifaciens	Adlercreutzia caecimuris
+Gordonibacter pamelaeae	Adlercreutzia caecimuris
+Clostridium disporicum	Intestinibacter bartlettii
+Ruthenibacterium lactatiformans	[Clostridium] leptum
+Anaerotruncus colihominis	[Clostridium] leptum
+Blautia wexlerae	Erysipelatoclostridium ramosum
+[Ruminococcus] gnavus	Erysipelatoclostridium ramosum
+Eggerthella lenta	Erysipelatoclostridium ramosum
+Sellimonas intestinalis	Erysipelatoclostridium ramosum
+Collinsella intestinalis	Slackia isoflavoniconvertens
+Tractidigestivibacter scatoligenes	Slackia isoflavoniconvertens
+Alistipes shahii	Slackia isoflavoniconvertens
+Oscillibacter sp. 57_20	Roseburia sp. CAG:309
+Clostridium sp. CAG:167	Roseburia sp. CAG:309
+Bacteroides faecis	Roseburia sp. CAG:309
+Eggerthella lenta	[Clostridium] innocuum
+[Clostridium] spiroforme	[Clostridium] innocuum
+Hungatella hathewayi	[Clostridium] innocuum
+Eisenbergiella tayi	[Clostridium] innocuum
+Coprobacillus cateniformis	[Clostridium] innocuum
+Anaerotruncus colihominis	[Clostridium] innocuum
+Streptococcus salivarius	Streptococcus vestibularis
+Streptococcus parasanguinis	Streptococcus vestibularis
+Lactococcus lactis	Streptococcus vestibularis
+Rothia mucilaginosa	Streptococcus vestibularis
+Veillonella parvula	Streptococcus vestibularis
+Escherichia coli	Streptococcus vestibularis
+Acidaminococcus intestini	Streptococcus vestibularis
+Actinomyces sp. oral taxon 181	Actinomyces graevenitzii
+Mogibacterium diversum	Actinomyces graevenitzii
+Bifidobacterium adolescentis	Aeriscardovia aeriphila
+Bacteroides ovatus	Bilophila wadsworthia
+Flavonifractor plautii	Bilophila wadsworthia
+Alistipes putredinis	Bilophila wadsworthia
+Odoribacter splanchnicus	Bilophila wadsworthia
+Bifidobacterium catenulatum	Bacteroides intestinalis
+Barnesiella intestinihominis	Eubacterium sp. CAG:38
+Firmicutes bacterium CAG:94	Bacteroides fragilis
+Oscillibacter sp. 57_20	Clostridium sp. CAG:167
+Roseburia sp. CAG:309	Clostridium sp. CAG:167
+Porphyromonas uenonis	Bifidobacterium bifidum
+Bacteroides intestinalis	Bifidobacterium catenulatum
+Blautia wexlerae	Blautia sp. CAG:257
+Bacteroides uniformis	Intestinimonas butyriciproducens
+Odoribacter splanchnicus	Intestinimonas butyriciproducens
+Butyricimonas virosa	Intestinimonas butyriciproducens
+Lawsonibacter asaccharolyticus	Intestinimonas butyriciproducens
+Odoribacter splanchnicus	Parasutterella excrementihominis
+Proteobacteria bacterium CAG:139	Parasutterella excrementihominis
+Eggerthella lenta	Eisenbergiella massiliensis
+Dielma fastidiosa	Eisenbergiella massiliensis
+Parasutterella excrementihominis	Proteobacteria bacterium CAG:139
+Ruthenibacterium lactatiformans	[Clostridium] spiroforme
+[Clostridium] innocuum	[Clostridium] spiroforme
+Coprobacillus cateniformis	[Clostridium] spiroforme
+Hungatella hathewayi	Enterocloster citroniae
+Eisenbergiella tayi	Enterocloster citroniae
+Enterocloster clostridioformis	Enterocloster citroniae
+Enterocloster lavalensis	Enterocloster citroniae
+Enterocloster bolteae	Enterocloster citroniae
+Anaerotruncus colihominis	Enterocloster citroniae
+[Clostridium] symbiosum	Enterocloster citroniae
+Enterocloster asparagiformis	Enterocloster citroniae
+Bacteroides uniformis	Lawsonibacter asaccharolyticus
+Flavonifractor plautii	Lawsonibacter asaccharolyticus
+Barnesiella intestinihominis	Lawsonibacter asaccharolyticus
+Anaeromassilibacillus sp. An250	Lawsonibacter asaccharolyticus
+Odoribacter splanchnicus	Lawsonibacter asaccharolyticus
+Intestinimonas butyriciproducens	Lawsonibacter asaccharolyticus
+Ruminococcaceae bacterium D16	Lawsonibacter asaccharolyticus
+[Clostridium] innocuum	Hungatella hathewayi
+Enterocloster citroniae	Hungatella hathewayi
+Eisenbergiella tayi	Hungatella hathewayi
+Enterocloster clostridioformis	Hungatella hathewayi
+Enterocloster lavalensis	Hungatella hathewayi
+Enterocloster bolteae	Hungatella hathewayi
+Anaerotruncus colihominis	Hungatella hathewayi
+[Clostridium] symbiosum	Hungatella hathewayi
+Ruthenibacterium lactatiformans	Eisenbergiella tayi
+[Clostridium] innocuum	Eisenbergiella tayi
+Enterocloster citroniae	Eisenbergiella tayi
+Hungatella hathewayi	Eisenbergiella tayi
+Enterocloster bolteae	Eisenbergiella tayi
+Anaerotruncus colihominis	Eisenbergiella tayi
+[Clostridium] symbiosum	Eisenbergiella tayi
+Barnesiella intestinihominis	Coprobacter fastidiosus
+Blautia wexlerae	Sellimonas intestinalis
+Streptococcus mitis	Sellimonas intestinalis
+Erysipelatoclostridium ramosum	Sellimonas intestinalis
+[Clostridium] innocuum	Coprobacillus cateniformis
+[Clostridium] spiroforme	Coprobacillus cateniformis
+Eggerthella lenta	[Clostridium] scindens
+Dorea formicigenerans	[Eubacterium] sulci
+Actinomyces sp. ICM47	[Eubacterium] sulci
+Mogibacterium diversum	[Eubacterium] sulci
+Eisenbergiella massiliensis	Dielma fastidiosa
+Adlercreutzia equolifaciens	Monoglobus pectinilyticus
+Clostridium disporicum	Monoglobus pectinilyticus
+Enterocloster citroniae	Enterocloster clostridioformis
+Hungatella hathewayi	Enterocloster clostridioformis
+Enterocloster bolteae	Enterocloster clostridioformis
+Anaerotruncus colihominis	Enterocloster clostridioformis
+Butyricimonas virosa	Bacteroides nordii
+Lawsonibacter asaccharolyticus	Ruminococcaceae bacterium D16
+Enterocloster citroniae	Enterocloster lavalensis
+Hungatella hathewayi	Enterocloster lavalensis
+Enterocloster bolteae	Enterocloster lavalensis
+Anaerotruncus colihominis	Enterocloster lavalensis
+[Clostridium] symbiosum	Enterocloster lavalensis
+Actinomyces sp. HPA0247	Bifidobacterium dentium
+Enterocloster citroniae	Enterocloster bolteae
+Hungatella hathewayi	Enterocloster bolteae
+Eisenbergiella tayi	Enterocloster bolteae
+Enterocloster clostridioformis	Enterocloster bolteae
+Enterocloster lavalensis	Enterocloster bolteae
+Anaerotruncus colihominis	Enterocloster bolteae
+[Clostridium] symbiosum	Enterocloster bolteae
+Enterocloster asparagiformis	Enterocloster bolteae
+Acidaminococcus intestini	Enterocloster bolteae
+Flavonifractor plautii	Anaerotruncus colihominis
+Ruthenibacterium lactatiformans	Anaerotruncus colihominis
+[Clostridium] leptum	Anaerotruncus colihominis
+[Clostridium] innocuum	Anaerotruncus colihominis
+Enterocloster citroniae	Anaerotruncus colihominis
+Hungatella hathewayi	Anaerotruncus colihominis
+Eisenbergiella tayi	Anaerotruncus colihominis
+Enterocloster clostridioformis	Anaerotruncus colihominis
+Enterocloster lavalensis	Anaerotruncus colihominis
+Enterocloster bolteae	Anaerotruncus colihominis
+[Clostridium] symbiosum	Anaerotruncus colihominis
+Roseburia sp. CAG:309	Bacteroides faecis
+Streptococcus mutans	Actinomyces oris
+Actinomyces graevenitzii	Mogibacterium diversum
+[Eubacterium] sulci	Mogibacterium diversum
+Streptococcus oralis	Solobacterium moorei
+Intestinibacter bartlettii	Clostridium disporicum
+Monoglobus pectinilyticus	Clostridium disporicum
+Ruminococcus sp. CAG:403	Clostridium disporicum
+Enterocloster citroniae	[Clostridium] symbiosum
+Hungatella hathewayi	[Clostridium] symbiosum
+Eisenbergiella tayi	[Clostridium] symbiosum
+Enterocloster lavalensis	[Clostridium] symbiosum
+Enterocloster bolteae	[Clostridium] symbiosum
+Anaerotruncus colihominis	[Clostridium] symbiosum
+Lactobacillus rogosae	Lachnospira pectinoschiza
+Bacteroides galacturonicus	Lachnospira pectinoschiza
+Allisonella histaminiformans	Enterocloster asparagiformis
+Enterocloster citroniae	Enterocloster asparagiformis
+Enterocloster bolteae	Enterocloster asparagiformis
+Anaeromassilibacillus sp. An250	Harryflintia acetispora
+Pseudoflavonifractor sp. An184	Harryflintia acetispora
+Streptococcus vestibularis	Acidaminococcus intestini
+Enterocloster bolteae	Acidaminococcus intestini
+Ligilactobacillus salivarius	Acidaminococcus intestini
+Bacteroides fragilis	Firmicutes bacterium CAG:94
+Christensenella minuta	Eubacteriaceae bacterium CHKCI005
+Dialister pneumosintes	Anaerococcus vaginalis
+Lachnospira pectinoschiza	Lactobacillus rogosae
+Lachnospira pectinoschiza	Bacteroides galacturonicus
+Fretibacterium fastidiosum	Bacteroides galacturonicus
+Coprococcus eutactus	Butyrivibrio crossotus
+Oscillibacter sp. 57_20	Butyricimonas synergistica
+Odoribacter splanchnicus	Butyricimonas synergistica
+Gemella morbillorum	Parvimonas micra
+Oscillibacter sp. 57_20	Fretibacterium fastidiosum
+Firmicutes bacterium CAG:110	Fretibacterium fastidiosum
+Bacteroides galacturonicus	Fretibacterium fastidiosum
+Acidaminococcus intestini	Ligilactobacillus salivarius
+Porphyromonas uenonis	Ligilactobacillus salivarius
+Eubacteriaceae bacterium CHKCI005	Christensenella minuta
+Clostridium disporicum	Ruminococcus sp. CAG:403
+Harryflintia acetispora	Pseudoflavonifractor sp. An184
+Bifidobacterium bifidum	Porphyromonas uenonis
+Ligilactobacillus salivarius	Porphyromonas uenonis
+Dialister pneumosintes	Porphyromonas uenonis
+Porphyromonas asaccharolytica	Porphyromonas uenonis
+Anaerococcus vaginalis	Dialister pneumosintes
+Porphyromonas uenonis	Dialister pneumosintes
+Porphyromonas uenonis	Porphyromonas asaccharolytica
